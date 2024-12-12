@@ -31,5 +31,6 @@ elif(respuesta_upper=="NO"):
     time.sleep(4)
     print("Aquí tienes tu contraseña generada aleatoriamente con "+ str(num_aleatorio) +" caracteres: " + pass_aleatoria)
 else:
-    print("Ingresa una respuesta correcta\nSaliendo del programa ...")
+    print("Ingresa una respuesta correcta y reinicia el programa\nSaliendo del programa ...")
     time.sleep(4)
+    exit()
