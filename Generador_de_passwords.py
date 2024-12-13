@@ -1,5 +1,9 @@
-#Generador de contraseñas seguras
-#
+#         UIDE
+# Ingenería en Software
+# Lógica de Programación
+# Autor: Kevin Tupiza
+# Proyecto: Generador de contraseñas seguras
+
 #Librerías
 import time
 import secrets
@@ -61,7 +65,6 @@ if __name__=="__main__":
     print("| $$  | $$  | $$  | $$  | $$| $$      ")
     print('|  $$$$$$/ /$$$$$$| $$$$$$$/| $$$$$$$$')
     print(verde+"\nGenerador de contraseñas segura")
-
     time.sleep(1)
     respuesta=str(input("¿Es la primera vez que usas este programa?\nRespuesta: "))
     respuesta_upper=respuesta.upper()
