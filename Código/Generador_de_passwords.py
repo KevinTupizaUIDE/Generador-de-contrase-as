@@ -38,7 +38,7 @@ def pass_frase():
     frase_usuario=str(input("Ingresa una frase que recuerdes de un máximo de " +str(extension_pass_clear)+ " caracteres: "))
     time.sleep(1)
     while len(frase_usuario) > extension_pass_clear:
-        frase_usuario=str(input(rojo+"La frase es demasiodo larga. Ingresa una frase de máximo"+ str(extension_pass_clear) + " caracteres: "+verde))
+        frase_usuario=str(input(rojo+"La frase es demasiodo larga. Ingresa una frase de máximo "+amarillo+ str(extension_pass_clear) + rojo+" caracteres: "+verde))
         continue 
     time.sleep(1) 
     frase_valid_upper=str(input("La frase " +amarillo+ frase_usuario +verde+ " ¿Es correcta?: ")).strip().lower()
@@ -79,7 +79,7 @@ if __name__=="__main__":
     print("| $$  | $$  | $$  | $$  | $$| $$      ")
     print('|  $$$$$$/ /$$$$$$| $$$$$$$/| $$$$$$$$')
     print(verde+"\nAutor: Kevin Tupiza")
-    print(verde+"\nGenerador de contraseñas segura\n")
+    print(verde+"\nGenerador de contraseñas seguras\n")
     time.sleep(1)
     respuesta_upper=str(input("¿Es la primera vez que usas este programa?\nRespuesta: ")).strip().lower()
 #Validación de opciones ingresadas por el susuario
