@@ -21,15 +21,13 @@ El programa también cuenta con validaciones interactivas para asegurar que los 
    ```
 4. Una vez completada la clonación, accede al directorio del proyecto:
    ```bash
-   cd generador-contrasenas
+   cd Generador-de-contrase-as/Código
    ```
-
-
-
-
-
-
-
+5. Ejecuta el programa:
+   ```bash
+   python Generador_de_passwords.py
+   ```
+5. Sigue los pasos para generar una contraseña a tu conveniencia:
 
 
 
