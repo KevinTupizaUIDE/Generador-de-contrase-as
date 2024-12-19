@@ -2,7 +2,7 @@
  ![imagen](https://github.com/user-attachments/assets/b963f0c2-9e2e-4c93-b9a0-d665375602fc)
 
 ## Objetivos
-Ayudar a las personas a obtener una contraseña que sea díficil de adivinar para usarla en portales personales o empresariales y así menorar los riesgos de robo de identidad digital
+Ayudar a las personas a obtener una contraseña que sea díficil de adivinar para usarla en portales personales o empresariales y así menorar los riesgos de robo de identidad digital.
 
 Proporcionar una contraseña bajo la suficiente robustez y longitud recomendada en estándares internacionales para evitar usar contraseñas fáciles de descifrar y clonar.
 ## Descripción
