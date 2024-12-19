@@ -32,9 +32,9 @@ El programa también cuenta con validaciones interactivas para asegurar que los 
    ```bash
    python Generador_de_passwords.py
    ```
-5. Sigue los pasos para generar una contraseña a tu conveniencia:
+5. Sigue los pasos para generar una contraseña a tu conveniencia
 
-
+## Avances
 
 Avance 1 del Desarrollo del Programa: https://mailinternacionaledu-my.sharepoint.com/:v:/g/personal/ketupizaul_uide_edu_ec/EZcVBgYZ05pBiF5a-QZF31YB6n7r1_fWgDHW1h4d77VhJQ
 
