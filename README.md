@@ -1,5 +1,8 @@
 ﻿# Generador de Contraseñas Seguras
+## Objetivos
+Ayudar a las personas a obtener una contraseña que sea díficil de adivinar para usarla en portales personales o empresariales y así menorar los riesgos de robo de identidad digital
 
+Proporcionar una contraseña bajo la suficiente robustez y longitud recomendada en estándares internacionales para evitar usar contraseñas fáciles de descifrar y clonar.
 ## Descripción
 
 Este proyecto es un **Generador de Contraseñas** diseñado para proporcionar contraseñas seguras y únicas. La herramienta permite a los usuarios generar contraseñas con diferentes niveles de complejidad, ajustándose a sus necesidades de seguridad y especificaciones personales. Puede ser utilizado tanto para propósitos personales como profesionales.
